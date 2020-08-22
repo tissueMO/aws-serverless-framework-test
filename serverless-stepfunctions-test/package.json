@@ -1,0 +1,13 @@
+{
+  "name": "aws-serverless-framework-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tissueMO/aws-serverless-framework-test.git",
+  "author": "tissueMO",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "1.61.2",
+    "serverless-aws-alias": "^1.8.0",
+    "serverless-step-functions": "^2.22.1"
+  }
+}
